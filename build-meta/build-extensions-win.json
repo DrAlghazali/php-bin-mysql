@@ -14,14 +14,17 @@
     "intl",
     "mbstring",
     "mbregex",
+    "mysqlnd",
     "opcache",
     "pdo",
+    "pdo_mysql",
     "sqlite3",
     "pdo_sqlite",
     "phar",
     "session",
     "simplexml",
     "sockets",
+    "sodium",
     "tokenizer",
     "zip"
 ]
